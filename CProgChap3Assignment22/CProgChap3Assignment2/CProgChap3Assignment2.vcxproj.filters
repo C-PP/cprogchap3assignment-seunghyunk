@@ -18,7 +18,7 @@
     <ClCompile Include="2.3 two_func.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="platinum.cpp">
+    <ClCompile Include="201411506_김승현.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
